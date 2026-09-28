@@ -46,6 +46,9 @@ The following commands should be passed over UART (this is done via the Xbox xLu
   <img src="Images/app.png" alt="xLume Demo" width="600">
 </a>
 
+<a href="https://www.youtube.com/watch?v=mztqegCKXT4">
+  <img src="Images/xLumeV2.png" alt="xLume V2" width="600">
+</a>
 ## Installation Example
 
 <img src="Images/example.png" alt="Installation Example" width="600">
